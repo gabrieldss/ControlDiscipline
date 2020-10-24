@@ -13,10 +13,8 @@ App allows registration disciplines and activities, with it we can follow the ac
 - Init app on the Android Studio simulator or depuring and installing in your android smartphone.
 
 
-
 *Some error in build the project? Access the menu Build and the opcion Clean Project.
 
 
 ## Some screens of the App (dark mode):
-![Home Screen](https://github.com/gabrieldss/ControlDiscipline/blob/master/Tela%20Home.jpg)
-![Registration Screen](https://github.com/gabrieldss/ControlDiscipline/blob/master/Tela%20Cadastro.jpg)
+![Home Screen](https://github.com/gabrieldss/ControlDiscipline/blob/master/app_screens.png)
